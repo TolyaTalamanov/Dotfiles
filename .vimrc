@@ -1,27 +1,28 @@
 filetype off
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#rc()
+
 Bundle 'VundleVim/Vundle.vim'
-Bundle 'matze/vim-move'
+"Bundle 'matze/vim-move'
 Bundle 'Tabmerge'
 Bundle 'dyng/ctrlsf.vim'
 Bundle 'scrooloose/nerdtree'
-Bundle 'morhetz/gruvbox'
+"Bundle 'morhetz/gruvbox'
 Bundle 'sickill/vim-monokai'
 Bundle 'jiangmiao/auto-pairs'
-Bundle 'christoomey/vim-tmux-navigator'
-Bundle 'tpope/vim-surround'
+"Bundle 'christoomey/vim-tmux-navigator'
+"Bundle 'tpope/vim-surround'
 Bundle 'easymotion/vim-easymotion'
 Bundle 'Valloric/YouCompleteMe'
 Bundle 'scrooloose/nerdcommenter'
-Bundle 'honza/vim-snippets'
-Bundle 'garbas/vim-snipmate'
-Bundle 'MarcWeber/vim-addon-mw-utils'
-Bundle 'tomtom/tlib_vim'
-Bundle 'mileszs/ack.vim'
+"Bundle 'honza/vim-snippets'
+"Bundle 'garbas/vim-snipmate'
+"Bundle 'MarcWeber/vim-addon-mw-utils'
+"Bundle 'tomtom/tlib_vim'
+"Bundle 'mileszs/ack.vim'
 Bundle 'tpope/vim-fugitive'
 Bundle 'kien/ctrlp.vim'
-Bundle 'terryma/vim-multiple-cursors'
+"Bundle 'terryma/vim-multiple-cursors'
 Bundle 'vim-airline/vim-airline'
 
 filetype plugin indent on
