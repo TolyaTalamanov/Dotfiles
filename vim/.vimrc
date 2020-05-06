@@ -76,3 +76,5 @@ nnoremap <Leader>y "+y
 
 nnoremap <Leader>yy "+yy
 autocmd VimLeave * call system("xclip -ib", getreg('+'))
+
+set is hls
